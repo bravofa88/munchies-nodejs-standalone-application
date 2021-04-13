@@ -1,0 +1,16 @@
+{
+  "name": "standalone-munchies-application",
+  "version": "1.0.0",
+  "description": "munchies mock-standalone app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fabian Bravo",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.0",
+    "yargs": "^16.2.0"
+  }
+}
